@@ -1,2 +1,2 @@
-language = "java 10"
+language = "java10"
 run = "javac LinearSearch.java && java LinearSearch"
